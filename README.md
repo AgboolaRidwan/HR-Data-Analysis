@@ -22,4 +22,6 @@ Develop targeted programs for employee retention, especially for those with 5+ y
 Align resource allocation with department size and strategic importance to ensure each department is adequately supported.
 
 This analysis and the corresponding visuals provide a comprehensive view of the organization's workforce, helping to identify areas for improvement and guiding strategic HR decisions.
+**Link to PowerBi**
+<iframe title="HR Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWFiY2EyZmUtMmJiZi00YTdhLThkYmQtNmU2YjBmZjdlNDMwIiwidCI6ImFmMmY4NmEwLTg2M2QtNDczOS1iMDZhLTFkNjRlMDI3YThjYSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
